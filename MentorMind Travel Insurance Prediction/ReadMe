@@ -1,0 +1,9 @@
+Company: MentorMind, co-certified by Toffee (Jan 2024 - Feb 2024):
+
+Objective: Created a machine learning model to predict if a customer would be interested in taking up travel insurance.
+Key Steps: Machine learning algorithms like Logistic Regression, Support Vector Machine, 
+and Random Forests are then employed to develop predictive models.
+These models are evaluated for performance using metrics like accuracy and f1 score.
+
+Output: A robust model capable of predicting customer purchase of travel insurance with high accuracy, 
+and effective in identifying potential insurance buyers.
